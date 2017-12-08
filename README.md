@@ -1,4 +1,4 @@
 hquery
 ======
 
-Trasnlate human setences from data sources in sql query
+Translate human sentences from data sources in sql query
